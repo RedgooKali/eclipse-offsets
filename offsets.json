@@ -3,7 +3,7 @@
     "dumper": "roblox-dumper 2.4",
     "author": "Jonah (jonahw on Discord)",
     "github": "https://github.com/nopjo/roblox-dumper",
-    "roblox_version": "version-df7528517c6849f7",
+    "roblox_version": "version-907968eac37e4875",
     "total_offsets": 247
   },
   "offsets": {
@@ -55,7 +55,7 @@
       "Workspace": 376
     },
     "FakeDataModel": {
-      "Pointer": 132339800,
+      "Pointer": 132372792,
       "RealDataModel": 448
     },
     "GuiBase2D": {
@@ -82,7 +82,7 @@
       "SelectionOrder": 1440,
       "Size": 1336,
       "SizeConstraint": 1444,
-      "Visible": 1457,
+      "Visible": 48,
       "ZIndex": 1448
     },
     "Humanoid": {
@@ -141,8 +141,8 @@
       "Sky": 472
     },
     "LocalScript": {
-      "Bytecode": 424,
-      "Hash": 232
+      "Bytecode": 376,
+      "Hash": 208
     },
     "MaterialColors": {
       "Asphalt": 48,
@@ -173,7 +173,7 @@
     },
     "ModuleScript": {
       "Bytecode": 336,
-      "Hash": 232
+      "Hash": 208
     },
     "MouseService": {
       "InputObject": 272
@@ -286,13 +286,13 @@
       "Text": 2728,
       "TextColor3": 3768,
       "TextDirection": 3016,
-      "TextScaled": 6,
+      "TextScaled": 2840,
       "TextSize": 3812,
       "TextStrokeColor3": 3780,
       "TextStrokeTransparency": 3816,
       "TextTransparency": 3820,
       "TextTruncate": 3824,
-      "TextWrapped": 2920,
+      "TextWrapped": 2840,
       "TextXAlignment": 3828,
       "TextYAlignment": 2916
     },
@@ -314,7 +314,7 @@
     "VisualEngine": {
       "Dimensions": 1824,
       "FakeDataModel": 1792,
-      "Pointer": 127833192,
+      "Pointer": 127866216,
       "RenderView": 2048,
       "ViewMatrix": 288
     },
@@ -328,6 +328,7 @@
     }
   }
 }
+
 
 
 
